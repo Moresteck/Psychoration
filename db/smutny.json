@@ -1,0 +1,70 @@
+{
+	"mood": "smutny",
+	"charge": -1,
+	"content": [
+		{
+			"type": "book",
+			"html_content": "<i>\"Niewidzialne miasto\"</i> - M. G. Harris"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Harry Potter i kamień filozoficzny\"</i> - J. K. Rowling"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Ferdydurke\"</i> - Witold Gombrowicz"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Finn nieposkromiony\"</i> - Oliver Uschmann"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Kolor magii\"</i> - Terry Pratchett"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Awantura o Basię\"</i> - Kornel Makuszyński"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Elfie, gdzie jesteś?!\"</i> - Marcin Pałasz"
+		},
+		{
+			"type": "poem",
+			"html_content": "<i>\"Rzepka\"</i> - Julian Tuwim"
+		},
+		{
+			"type": "poem",
+			"html_content": "<i>\"Sokrates tańczący\"</i> - Julian Tuwim"
+		},
+		{
+			"type": "quotation",
+			"html_content": "Życie to 10% tego, co nam się przydarza i 90% tego, jak na to reagujemy. Nasze podejście jest wszystkim."
+		},
+		{
+			"type": "quotation",
+			"html_content": "Nikt nie może sprawić byś poczuł się gorszy bez twojego przyzwolenia."
+		},
+		{
+			"type": "quotation",
+			"html_content": "Pragnąc być kimś innym marnujesz osobę, którą jesteś."
+		},
+		{
+			"type": "quotation",
+			"html_content": "W ręku masz pędzel i farby. Naj­pierw malujesz raj, a potem do niego wchodzisz."
+		},
+		{
+			"type": "quotation",
+			"html_content": "Każda porażka jest szansą żeby spróbować jeszcze raz, tylko mądrzej."
+		},
+		{
+			"type": "quotation",
+			"html_content": "Można mieć wszystko. Po prostu nie można mieć wszystkiego jednocześnie."
+		},
+		{
+			"type": "quotation",
+			"html_content": "Ty, jak nikt we Wszechświecie, zasługujesz na swoją miłość."
+		}
+	]
+}

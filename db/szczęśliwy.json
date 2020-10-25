@@ -1,0 +1,70 @@
+{
+	"mood": "szczęśliwy",
+	"charge": 1,
+	"content": [
+		{
+			"type": "book",
+			"html_content": "<i>\"Smak błękitu\"</i> - Grzegorz Skorupski"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Pan Tadeusz\"</i> - Adam Mickiewicz"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Zew Cthulhu\"</i> - H. P. Lovecraft"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Zgroza w Dunwitch\"</i> - H. P. Lovecraft"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Krzyż Celtów\"</i> - Alina Krajewska"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Historia naturalna smoków\"</i> - Marie Brennan"
+		},
+		{
+			"type": "book",
+			"html_content": "<i>\"Lalka\"</i> - Bolesław Prus"
+		},
+		{
+			"type": "poem",
+			"html_content": "<i>\"Atlantyda\"</i> - Wisława Szymborska"
+		},
+		{
+			"type": "poem",
+			"html_content": "<i>\"Nic dwa razy\"</i> - Wisława Szymborska"
+		},
+		{
+			"type": "quotation",
+			"html_content": "Życia nie można wybrać, ale można z niego coś zrobić."
+		},
+		{
+			"type": "quotation",
+			"html_content": "Ludzie budują za dużo murów, a za mało mostów."
+		},
+		{
+			"type": "quotation",
+			"html_content": "To smutne, że głupcy są tacy pewni siebie, a ludzie rozsądni tacy pełni wątpliwości."
+		},
+		{
+			"type": "quotation",
+			"html_content": "Dopiero w samotności człowiek jest naprawdę sobą."
+		},
+		{
+			"type": "quotation",
+			"html_content": "Żaden wiatr nie jest pomyślny temu, kto nie wie, do którego portu płynie."
+		},
+		{
+			"type": "quotation",
+			"html_content": "Wiele spośród rzeczy, które możesz policzyć, nie liczą się. Wiele z tych, których policzyć nie można, naprawdę sie liczą."
+		},
+		{
+			"type": "quotation",
+			"html_content": "Człowiek naprawdę posiada tylko to, co jest w nim."
+		}
+	]
+}
